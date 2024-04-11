@@ -1,4 +1,4 @@
-### Hello everyone, I am Murilo Costa! 
+### Murilo Costa
 
 
 - 🌱 I'm currently learning C++
