@@ -2,7 +2,7 @@
 
 
 - 🌱 I'm currently learning C++
-- 👨🏾‍💻 I'm working to be fron-end developer
+- 👨🏾‍💻 I'm working to be front-end developer
 - :mortar_board: Bachelor of Information Technology - UFRN
 -  :computer: I'm working to learn JavaScript frameworks now
 
