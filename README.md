@@ -1,7 +1,7 @@
 ### Murilo Costa
 
 
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently learning Node.js
 - 👨🏾‍💻 I'm working to be front-end developer
 - :mortar_board: Bachelor of Information Technology - UFRN
 -  :computer: I'm working to learn JavaScript frameworks now
