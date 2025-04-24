@@ -2,9 +2,9 @@
 
 
 - 🌱 I'm currently learning Spring Boot
-- 👨🏾‍💻 I'm working to be a Developer
+- 👨🏾‍💻 I'm working to be a QA/Developer
 - :mortar_board: Bachelor of Information Technology - UFRN
--  :computer: I'm working to learn Java Frameworks
+-  :computer: I'm working to learn Tests Frameworks
 
 <div align="center">
   <a href="https://github.com/mulirous">
@@ -19,6 +19,7 @@
   <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Murilo-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="Murilo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Murilo-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
   <img align="center" alt="Murilo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="Murilo-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
