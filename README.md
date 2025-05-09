@@ -17,8 +17,8 @@
   <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Murilo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Murilo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Murilo-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Murilo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Murilo-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
   <img align="center" alt="Murilo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
@@ -28,6 +28,7 @@
   <img align="center" alt="Murilo-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Murilo-Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Murilo-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Murilo-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Murilo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Murilo-Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg">
    
