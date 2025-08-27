@@ -4,7 +4,7 @@
 - 🌱 I'm always currently learning
 - 👨🏾‍💻 I'm working to be a Software Engineer
 - :mortar_board: Bachelor of Information Technology - UFRN
--  :computer: I'm working to learn Tests Frameworks
+-  :computer: I'm currently working with Fullstack 
 
 <div align="center">
   <a href="https://github.com/mulirous">
