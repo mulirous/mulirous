@@ -1,8 +1,8 @@
 ### Murilo Costa
 
 
-- 🌱 I'm currently learning Spring Boot
-- 👨🏾‍💻 I'm working to be a QA/Developer
+- 🌱 I'm always currently learning
+- 👨🏾‍💻 I'm working to be a Software Engineer
 - :mortar_board: Bachelor of Information Technology - UFRN
 -  :computer: I'm working to learn Tests Frameworks
 
