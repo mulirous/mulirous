@@ -1,44 +1,41 @@
-### Murilo Costa
+<h1 align="center">Oi, eu sou Murilo Costa 👋</h1>
 
+<p align="center">
+  <strong>Desenvolvedor full stack · Analista de dados</strong><br>
+  Natal, RN · IMD/UFRN
+</p>
 
-- 🌱 I'm always currently learning
-- 👨🏾‍💻 I'm working to be a Software Engineer
-- :mortar_board: Bachelor of Information Technology - UFRN
--  :computer: I'm currently working with Fullstack 
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/pescaria.png">
+    <img src="assets/pescaria.gif" alt="Pescador em um píer ao pôr do sol, com ondas ao redor da boia, em pixel art" width="900">
+  </picture>
+  <br>
+  <sub>O peixe ainda está em revisão.</sub>
+</p>
 
-<div align="center">
-  <a href="https://github.com/mulirous">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulirous&show_icons=true&theme=catppuccin_mocha"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulirous&layout=compact&langs_count=7&theme=catppuccin_mocha"/>   
-</div>
+## Como eu trabalho
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Murilo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-plain.svg">
-  <img align="center" alt="Murilo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Murilo-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Murilo-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Murilo-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Murilo-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Murilo-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Murilo-Postgress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Murilo-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
-  <img align="center" alt="Murilo-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Murilo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Murilo-Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg">
-   
-</div>
+Minha formação é em Tecnologia da Informação no IMD/UFRN. Gosto de acompanhar um problema da primeira consulta SQL até a interface que alguém vai usar.
 
-##
+- **Desenvolvimento** · APIs com Java e Spring Boot, interfaces com TypeScript e React, persistência com PostgreSQL e ambientes com Docker.
+- **Análise de dados** · Exploração e visualização com Python, pandas e Jupyter, consultas em SQL e experimentos de machine learning com scikit-learn.
 
-<div> 
-  <a href="https://instagram.com/mulirous" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-  <a href = "mailto:contato.muriloalimacosta@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-antonio-lima-da-costa-687b51273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Projetos em destaque
+
+- **[PertinDeTu](https://github.com/mulirous/pertindetu)** · Marketplace de serviços locais com busca por localização, gestão de pedidos e avaliações. Spring Boot, React e PostgreSQL.
+- **[Simulador de tarifas](https://github.com/mulirous/simulador-tarifas)** · Sistema distribuído para cotação e pagamento de pedágios, com Spring Boot, Nginx e testes de carga em k6.
+- **[Detecção de anomalias com TinyML](https://github.com/mulirous/detector_anomalias_embarcado)** · Análise de vibração de motores, da coleta via MQTT e exploração em notebook à inferência no ESP32.
+- **[Análise de sentimentos em tweets](https://github.com/mulirous/preditor_sentimentos_tweets)** · Pré-processamento de texto, classificação em quatro categorias com Naive Bayes e uma demo em Flask.
+
+## Contribuições em equipe
+
+- **[Compilador Lastro](https://github.com/Caio2a7/lastrolang/pull/41)** · Trabalhei na análise semântica em C, com tabelas de símbolos, tipos e subprogramas, além de testes de declaração.
+- **[Deconvolução de imagens](https://github.com/andraderafa72/vc-deconvolucao/pull/1)** · Implementei o filtro de Wiener em Python e atualizei a interface para configurar algoritmos e salvar o resultado.
+- **[API para dispositivos IoT](https://github.com/cleziojr/IoT-device-API/pull/12)** · Documentei a API com Swagger e escrevi as instruções de uso do projeto.
+
+## Bora conversar?
+
+Se quiser trocar uma ideia sobre software, dados ou pescaria, me chama.
+
+[LinkedIn](https://www.linkedin.com/in/murilo-antonio-lima-da-costa-687b51273) · [E-mail](mailto:contato.muriloalimacosta@hotmail.com) · [Instagram](https://instagram.com/mulirous)
